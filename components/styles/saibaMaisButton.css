@@ -1,0 +1,47 @@
+
+header img{
+    margin-top: 20px;
+    margin-left: 580px;
+}
+
+p{  
+    font-family: Labrada, sans-serif;
+    font-weight: 200;
+    text-indent: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+div{
+    padding: 10px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Labrada, sans-serif;
+    font-weight: 15px bold;
+    background-color: #ccc;
+}
+
+@media (max-width: 800px) {
+    header img{
+        align-items: center;
+    }
+    p{
+        text-indent: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    div{
+        padding: 10px;
+    }
+    footer{
+        padding: 20px;
+        text-align: center;
+        text-decoration: solid;
+        font-family: Labrada, sans-serif;
+        font-weight: bold;
+    }
+}
