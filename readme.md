@@ -1,4 +1,4 @@
-Doceria G&P
+Doceria
 
 O site foi criado entre às 13:30h do dia 24/02/2023 às 00:33 do dia 26/02/2023.
 
